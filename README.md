@@ -1,5 +1,5 @@
-
-[I'm an inline-style link with title]:(https://www.hackerrank.com/domains/sql/select)
+Inline-style: 
+![alt text](https://www.hackerrank.com/domains/sql/select"Hackerrank")
 
 [link text itself]:(https://github.com/int28h/SQLTasks/blob/master/src/hackerrank-basic-select.md)
 [link text itself]:(https://github.com/int28h/SQLTasks/blob/master/src/hackerrank-advanced-select.md)
