@@ -1,4 +1,4 @@
-Inline-style: 
+[I'm an inline-style link](https://www.google.com)
 ![alt text](https://www.hackerrank.com/domains/sql/select"Hackerrank")
 
 [link text itself]:(https://github.com/int28h/SQLTasks/blob/master/src/hackerrank-basic-select.md)
